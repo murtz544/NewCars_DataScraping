@@ -1,0 +1,17 @@
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\bin\Debug\net6.0\PakwheelsCarsData.exe
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\bin\Debug\net6.0\PakwheelsCarsData.deps.json
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\bin\Debug\net6.0\PakwheelsCarsData.runtimeconfig.json
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\bin\Debug\net6.0\PakwheelsCarsData.dll
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\bin\Debug\net6.0\PakwheelsCarsData.pdb
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.csproj.AssemblyReference.cache
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.GeneratedMSBuildEditorConfig.editorconfig
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.AssemblyInfoInputs.cache
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.AssemblyInfo.cs
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.csproj.CoreCompileInputs.cache
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.dll
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\refint\PakwheelsCarsData.dll
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.pdb
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.genruntimeconfig.cache
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\ref\PakwheelsCarsData.dll
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+D:\pakwheelsNewCars\PakwheelsCarsData\PakwheelsCarsData\obj\Debug\net6.0\PakwheelsCarsData.csproj.CopyComplete
